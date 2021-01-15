@@ -11,5 +11,7 @@ Designed around a 10 x 10 mm inner size cuvette. Made for the following componen
 * 1 Ø5mm Through Hole Photodiode
 
 Created for TU Delft course NB2211-14 Electronic Instrumentation.
+
 Software used: Autodesk Inventor
+
 Credits to V. for the print.
